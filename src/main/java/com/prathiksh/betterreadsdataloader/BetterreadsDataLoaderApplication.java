@@ -1,4 +1,4 @@
-package com.matrix.betterreadsdataloader;
+package com.prathiksh.betterreadsdataloader;
 
 import connection.DataStaxAstraProperties;
 import org.springframework.boot.SpringApplication;
